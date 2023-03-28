@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+.centralDoor {
+	margin-top: 40%;
+	padding: 2px;
+	display: inline-block;
+}
+
+h5 {
+	font-size: 20px;
+  font-family: "Lucida Console";
+}
+
+.w3-btn {
+	background-color:#cc99ff;
+}
+
+.w3-col {
+	background-color:#cc99ff;
+}
+
+.bglol {
+	background-color:#cc99ff;
+}
+
+.updateRow {
+	width: 300px;
+    float:left; /* add this */
+    border: 1px solid red;
+}
